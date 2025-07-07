@@ -1,1 +1,1 @@
-# FinalProject
+# The goal of this project is to create a social app that helps people connect with others who are attending the same concert alone. Inspired by the social features of Bumble BFF and the concert data of Ticketmaster, users create a profile with age and selected interests, and can then search for people who are attending the same concert. The app aims to create safe, interest-based connections by allowing users to filter by gender, age range, and shared interests. The core interaction is a swipe-based matching system similar to Bumble
